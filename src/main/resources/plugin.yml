@@ -1,0 +1,7 @@
+name: BaseCreate
+version: '${project.version}'
+main: ru.evdokimov27.basecreate
+api-version: 1.16
+softdepend:
+depend: [ExecutableBlocks, SCore, VK-API]
+authors: [ evdokimov27 ]
